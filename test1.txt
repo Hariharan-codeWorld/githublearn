@@ -1,2 +1,4 @@
 hi this is test - 1
 hello this is day2 of learning git
+
+consistency is the key to success
